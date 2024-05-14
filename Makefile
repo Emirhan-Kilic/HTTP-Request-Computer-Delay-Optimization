@@ -1,11 +1,3 @@
-#
-# Author : Emirhan Kılıç
-# ID: 22203360
-# Section : 3
-# Homework : 2
-# Description : Very simple makefile to create simulator output.
-# Use "make" to create ./simulator, "make run" to run tests for log 1-3 and "make delete" to remove the outputs includes simulator
-#
 
 
 all: simulator
